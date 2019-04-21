@@ -1,0 +1,9 @@
+{
+  "name": "muber-server",
+  "version": "1.0.0",
+  "description": "Server for the (M)Uber Clone on GraphQL, Typescript, NodeJS",
+  "main": "index.js",
+  "repository": "https://github.com/mynamemj/muber-server",
+  "author": "mynamemj <dlaudwp1313@gmail.com>",
+  "license": "MIT"
+}
