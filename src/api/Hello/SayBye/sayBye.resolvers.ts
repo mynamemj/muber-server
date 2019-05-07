@@ -1,6 +1,6 @@
 const resolvers ={
     Query:{
-        sayBye:()=>"Bye!!!"
+        sayBye:():string=>"Bye!!!"
     }
 }
 

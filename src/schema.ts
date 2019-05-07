@@ -1,4 +1,6 @@
+// 사용할 리솔버와 스키마를 통합
 import {makeExecutableSchema} from 'graphql-tools';
+
 import {fileLoader,mergeResolvers,mergeTypes} from 'merge-graphql-schemas';
 import path from 'path';
 //fileLoader :path에 있는 파일 load
